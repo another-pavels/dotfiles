@@ -1,2 +1,1 @@
-just my vimrc while learning
-
+just my vimrc while learning.
